@@ -61,7 +61,7 @@ The dataset is fully reproducible using the provided Jupyter Notebook.
 ---
 
 ## Repository Structure
-
+- `thyroid_hydatid_cyst.csv` – Original raw dataset before preprocessing
 - `thyroid_hydatid_cyst_cleaned.csv` – Final cleaned dataset  
 - `analysis.ipynb` – Data cleaning and preprocessing notebook  
 - `README.md` – Project documentation  
