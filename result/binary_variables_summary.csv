@@ -1,0 +1,8 @@
+,cyst_size_mm_median,number
+medication_yes,37.0,24
+medication_no,34.5,12
+pulmonary_yes,40.0,12
+pulmonary_no,35.0,23
+lobar_right,40.0,17
+lobar_left,38.0,15
+both_lobe,13.5,4
